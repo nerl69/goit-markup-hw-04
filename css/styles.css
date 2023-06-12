@@ -71,6 +71,15 @@ body {
   padding-bottom: 24px;
   position: relative;
 }
+.header-menu::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -1px;
+  height: 4px;
+  background-color: #404bbf;
+  border-radius: 2px;
+}
 
 .header-address-link {
   font-style: normal;
