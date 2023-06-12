@@ -74,6 +74,7 @@ body {
 
 .header-menu-link {
   color: #404bbf;
+  position: relative;
 }
 
 .header-menu-link::after {
