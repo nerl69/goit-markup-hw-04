@@ -419,6 +419,19 @@ img {
   fill: currentColor;
 }
 
+.footer-container {
+  margin-right: 120px;
+}
+
+.socialmedia-paragraf {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  margin-bottom: 16px;
+}
+
 /*-----------Portfolio-----------*/
 
 .portfolio-img-title {
