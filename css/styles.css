@@ -137,7 +137,7 @@ body {
   padding: 100px 0;
 }
 
-.hero-btn[data-modal-open] {
+.hero-btn {
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
