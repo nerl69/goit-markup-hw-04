@@ -76,7 +76,7 @@ body {
   color: #404bbf;
 }
 
-.header-menu::after {
+.header-menu-link::after {
   content: "";
   position: absolute;
   left: 0;
