@@ -384,6 +384,11 @@ img {
   margin-bottom: 72px;
 }
 
+.sectionfour-list {
+  display: flex;
+  gap: 24px;
+}
+
 /*-----------Portfolio-----------*/
 
 .portfolio-img-title {
