@@ -405,6 +405,16 @@ img {
   color: #8e8f99;
 }
 
+.sectionfour-reference:hover,
+.sectionfour-reference:focus {
+  border-color: #404bbf;
+  color: #404bbf;
+}
+
+.icon-sectionfour {
+  fill: currentColor;
+}
+
 /*-----------Portfolio-----------*/
 
 .portfolio-img-title {
