@@ -28,7 +28,6 @@ body {
   margin: 0 auto;
   padding-left: 15px;
   padding-right: 15px;
-  padding: 32px 0;
 }
 
 .header-navigation {
@@ -365,6 +364,8 @@ img {
 
 .container-sectionthree {
   padding: 32px 16px;
+  padding-top: 32px;
+  padding-bottom: 32px;
 }
 
 .paragrafthree {
