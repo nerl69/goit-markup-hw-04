@@ -394,6 +394,15 @@ img {
   justify-content: center;
 }
 
+.socialmedia-sectionthree-link:hover,
+.socialmedia-sectionthree-link:focus {
+  background-color: #404bbf;
+}
+
+.icon-sectionthree {
+  fill: #f4f4fd;
+}
+
 .sectionfour {
   padding-top: 120px;
   padding-bottom: 120px;
