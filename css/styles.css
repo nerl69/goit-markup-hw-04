@@ -366,8 +366,7 @@ img {
 
 .container-sectionthree {
   padding: 32px 16px;
-  padding-top: 32px;
-  padding-bottom: 32px;
+  padding: 32px 0;
 }
 
 .paragrafthree {
