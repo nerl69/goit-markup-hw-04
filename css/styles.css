@@ -492,7 +492,7 @@ img {
   fill: #f4f4fd;
 }
 
-.modal-container {
+.backdrop {
   position: fixed;
   top: 0;
   left: 0;
