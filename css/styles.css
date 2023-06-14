@@ -669,7 +669,7 @@ img {
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.portfolio-paragraf:hover,
-.portfolio-paragraf:focus {
+.portfolio-link:hover .portfolio-paragraf,
+.portfolio-link:focus .portfolio-paragraf {
   transform: translateY(0%);
 }
